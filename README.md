@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# ANKUR RAKESH UJAWANE
-
+# Hi There, I'm Ankur Rakesh Ujawane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 **B.E. Robotics & Automation · DY Patil College of Engineering, Pune**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Embedded+Systems+Developer;ROS+%7C+Drone+Systems+%7C+Computer+Vision;Open+to+Research+%26+Internships" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankur%20Ujawane)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurujawane@gmail.com)
@@ -51,21 +51,6 @@ I'm a Robotics engineering student with keen interest in Robots, UAVs and UUVs. 
 
 ---
 
-## `// RESEARCH & FOCUS AREAS`
-```
-┌─────────────────────────────────────────────────────────────┐
-│  01  · Drone Systems & Aerial Robotics                       │
-│  02  · Autonomous Mobile Robots (AMR / AGV)                  │
-│  03  · Computer Vision for Robotic Perception                │
-│  04  · Industrial Automation & Smart Manufacturing           │
-│  05  · AI-Driven Decision Systems in Robotics                │
-│  06  · Embedded Robotics & Real-Time Control                 │
-│  07  · Underwater Robotics & Marine Systems                  │
-│  08  · ROS Simulations (Gazebo / RViz Environments)          │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## `// GITHUB STATS`
 
