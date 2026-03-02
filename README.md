@@ -6,7 +6,6 @@
 
 # Hi There, I'm Ankur Rakesh Ujawane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 **B.E. Robotics & Automation · DY Patil College of Engineering, Pune**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Embedded+Systems+Developer;ROS+%7C+Drone+Systems+%7C+Computer+Vision;Open+to+Research+%26+Internships" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankur%20Ujawane)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurujawane@gmail.com)
@@ -35,15 +34,14 @@ I'm a Robotics engineering student with keen interest in Robots, UAVs and UUVs. 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 </div>
 
 | Domain | Tool / Technology |
 |---|---|
 | Programming | Python, C++ |
-| Robotics Framework | ROS (Noetic / 2) |
+| Robotics Framework | ROS 2 |
 | Embedded Systems | Arduino, Microcontrollers, Sensors, Actuators |
 | Computer Vision | OpenCV |
 | Data & Simulation | NumPy, Pandas, Blender |
